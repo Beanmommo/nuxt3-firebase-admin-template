@@ -1,3 +1,9 @@
+# NOTE
+Just put in your serviceAccountKey from Google API on servers/utils directory and .env on root folder
+
+## Remember
+rename the service account key file on servers/utils/firebase.ts 
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
